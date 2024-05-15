@@ -1,0 +1,132 @@
+body{
+    background-color: black;
+}
+.container1{
+    height: 200px;
+    width: 98%;
+    background-color: aqua;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto; 
+    display: flex;
+    justify-content: space-between;
+}
+.id1{
+    background-color: #0e6973;
+    width: 20%;
+    height: 90%;
+    display: inline-block;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.id2{
+    background-color: #0e6973;
+    width: 20%;
+    height: 90%;
+    display: inline-block;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.id3{
+    background-color: #0e6973;
+    width: 20%;
+    height: 90%;
+    display: inline-block;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.id4{
+    background-color: #0e6973;
+    width: 20%;
+    height: 90%;
+    display: inline-block;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.container2 {
+
+    height: 690px;
+    width: 98%;
+    background-color: aqua;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.container3 {
+
+    height: 98%;
+    width: 98%;
+    background-color: aqua;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.id5{
+    background-color: #0e6973;
+    width: 48%;
+    height: 90%;
+    display: inline-block;
+    border-radius: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 30px;
+}
+
+.id6{
+    background-color: #0e6973;
+    width: 48%;
+    height: 90%;
+    display: inline-block;
+    border-radius: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 2px;
+}
+
+.id7{
+    background-color: #268b96;
+    width: 98%;
+    height: 47%;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.id8{
+    background-color: #268b96;
+    width: 98%;
+    height: 47%;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.id9{
+    background-color: #268b96;
+    width: 98%;
+    height: 47%;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.id10{
+    background-color: #268b96;
+    width: 98%;
+    height: 47%;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}

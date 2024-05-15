@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+.id1{
+    height: 130px;
+    width: 98%;
+    background-color: aqua;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.container {
+    position: relative;
+}
+  
+.id2 {
+    height: 750px;
+    width: 200px;
+    background-color: aqua;
+    position: absolute;
+    top: 50%;
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.container2 {
+    background-color: #0e6973;
+    border-radius: 15px;
+    width: 86%;
+    height: 750px;
+    margin-left: 250px;
+    margin-top: 15px;
+}
+
+.id3{
+    background-color: aqua;
+    width: 47%;
+    height: 96%;
+    display: inline-block;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-left: 20px;
+
+    
+}
+
+.id4{
+    background-color: aqua;
+    width: 47%;
+    height: 96%;
+    display: inline-block;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
